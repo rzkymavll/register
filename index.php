@@ -34,7 +34,7 @@
                 <textarea name="pesan" rows="8" cols="45" class="form-control" name="pesan" placeholder="Pesan"></textarea> <br>
                 <div class="row">
                     <div class="col text-center">
-                        <button type="submit" class="btn btn-light" >Submit</button>
+                        <button type="submit" class="btn btn-light" >Kirim</button>
                     </div>
                 </div>
                 
